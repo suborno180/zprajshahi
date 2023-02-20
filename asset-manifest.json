@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zprajshahi/static/css/main.dd350108.css",
-    "main.js": "/zprajshahi/static/js/main.e5d2b2c0.js",
+    "main.js": "/zprajshahi/static/js/main.dd35e82e.js",
     "static/js/787.c1112931.chunk.js": "/zprajshahi/static/js/787.c1112931.chunk.js",
     "static/media/bd_national_anthem.mp3": "/zprajshahi/static/media/bd_national_anthem.de50da1dfe0a20374454.mp3",
     "static/media/comment.gif": "/zprajshahi/static/media/comment.873b98b38fc3222d4ed4.gif",
@@ -22,11 +22,11 @@
     "static/media/print_btn.webp": "/zprajshahi/static/media/print_btn.de1e80ebf70c49f83dd2.webp",
     "index.html": "/zprajshahi/index.html",
     "main.dd350108.css.map": "/zprajshahi/static/css/main.dd350108.css.map",
-    "main.e5d2b2c0.js.map": "/zprajshahi/static/js/main.e5d2b2c0.js.map",
+    "main.dd35e82e.js.map": "/zprajshahi/static/js/main.dd35e82e.js.map",
     "787.c1112931.chunk.js.map": "/zprajshahi/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd350108.css",
-    "static/js/main.e5d2b2c0.js"
+    "static/js/main.dd35e82e.js"
   ]
 }
